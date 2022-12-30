@@ -1,0 +1,166 @@
+body{
+    /* background-color: #c7d1cb; */
+    background-color: black;
+}
+.Display{
+    font-family: Sans-serif;
+    color: #a4be99;
+    font-weight: 600;
+   
+}
+label {
+    color: aliceblue;
+
+}
+input:hover{
+    background-color: hwb(338 59% 35% / 0.747);
+    
+}
+td{
+    color: antiquewhite;
+}
+th{
+    color: rgb(7, 12, 9);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1.Display:hover {
+    color: rgb(171, 209, 35);
+}
+/* h1 :hover{
+    color: brown;
+    background-color: bisque;
+} */
+/* .Display .hover :hover{
+    color: brown;
+    background-color: bisque;
+} */
+
+
+
+
+
+.nav{
+    height: 50px;
+    background-color: red;
+    top: 0;
+}
+h6{
+    font-size: large;
+    margin-top: -28px;
+    margin-right: 1200px ;
+    color: white;
+}
+h4{
+    margin-top: -65px;
+    color: white;
+}
+h3{
+    margin-left: 1000px;
+    margin-top: -40px;
+    color: white;
+}
+.placed{
+    margin-left: 1340px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+.moves{
+    height: 25px;
+    width: 25px;   
+   
+}
+.abb{
+    height: 25px;
+ 
+    width: 25px;
+  margin-right: 1450px;
+    margin-top: 10px;
+}
+.second{
+    margin-left: -1020px;
+    margin-top: 40px;
+
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+  
+}
+.pkk{
+    background-color: green;
+       width: 220px;
+    height: 30px;
+    color: white;
+    font-weight: 600;
+    padding-top: 3px;
+    border-radius: 15px;
+   
+}
+.sec{
+    margin-left: 10px;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+   color: black;
+  
+   
+}
+.third{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 30px;
+    gap: 40px;
+
+    
+}
+.okk{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+.four{
+    display: flex;
+    gap: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+.opp{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+}
+.five{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: -1300px;
+    padding-left: 30px;
+    color: aliceblue;
+    
+}
+.six{
+    height: 300px;
+    width: 1400px;
+    border: 0.2px solid gray;
+    margin-left: 40px;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+thead{
+    height: 50px;
+    
+    background-color: gray;
+    border-collapse: collapse;
+    
+}
+.move{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+th{
+    width: 1400px;
+}
+.blue-WO1789{
+    color: hsl(258, 79%, 61%);
+    font-weight: 600;
+}
